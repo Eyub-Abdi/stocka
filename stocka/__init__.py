@@ -1,0 +1,1 @@
+# Stocka Django Project
